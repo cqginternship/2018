@@ -3,7 +3,7 @@
 ## Расписание
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
-3 сен | Лекция | Git basics
+3 сен | Лекция | [Git basics](https://github.com/cqginternship/2018/blob/master/1.%20Git/Git%20Basics.pptx?raw=true)
 10 сент | Лаба | Задачи
 17 сент | Лекция | STL, part 1
 24 сент | Лаба | STL, part 1
