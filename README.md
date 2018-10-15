@@ -9,7 +9,7 @@
 ~~26 сен~~ | Лаба | [STL, part 1](<2. STL1/Containers and iterators.md>)
 ~~01 окт~~ | Лекция | [STL, part 2](<3. STL2/STL Algorithms (2018) summary.pdf>)
 10 окт | Лаба | [STL, part 2](<3. STL2/Алгоритмы и функциональные объекты.md>)
-15 окт | Лекция | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function\Modern C++ Lambda, Bind, Function.pdf>)
+15 окт | Лекция | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++ Lambda, Bind, Function.pdf>)
 24 окт | Лаба | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++ Lambda, Bind, Function.md>)
 29 окт | КОЛЛОКВИУМ | 
 07 ноя | - | -
