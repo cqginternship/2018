@@ -143,11 +143,11 @@ auto powersOfTwo = CreateStream(2, [](int i) { return i * 2; }); // 2, 4, 8, 16,
 1. Функция `Map` применяет функцию `fn` ко всем элементам потока и возвращает получившийся поток.
 
     Возвращаемоe значение `Map` по сути означает поток типа, который возвращает функция `f`.
-    Необязательно разбираться в `decay_t` и в `invoke_result_t`, чтобы написать эту функцию.
-    `decay_t<invoke_result_t<TFn, T>>` - это возвращаемое значение `TFn` при передаче `T` как аргумента функции.
+    Необязательно разбираться в `decay_t` и в `result_of_t`, чтобы написать эту функцию.
+    `decay_t<result_of_t<TFn(T)>>` - это возвращаемое значение `TFn` при передаче `T` как аргумента функции.
     ``` cpp
     template<class T, class TFn>
-    Stream<decay_t<invoke_result_t<TFn, T>>> Map(Stream<T> stream, TFn f)
+    Stream<decay_t<result_of_t<TFn(T)>>> Map(Stream<T> stream, TFn f)
 
     Map(naturalNumbers, [](int i) { return i * i; }); // 1, 4, 16, 64...
     ```
