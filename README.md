@@ -11,7 +11,7 @@
 10 окт | Лаба | [STL, part 2](<3. STL2/Алгоритмы и функциональные объекты.md>)
 15 окт | Лекция | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++ Lambda, Bind, Function.pdf>)
 24 окт | Лаба | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++ Lambda, Bind, Function.md>)
-29 окт | КОЛЛОКВИУМ | 
+29 окт | КОЛЛОКВИУМ | [Вопросы](<Коллоквиум/Вопросы.md>)
 07 ноя | - | -
 12 ноя | Лекция | Modern C++: move-semantics and smart pointers
 21 ноя | Лаба | Modern C++: move-semantics and smart pointers
