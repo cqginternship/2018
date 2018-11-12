@@ -13,8 +13,8 @@
 ~~24 окт~~ | Лаба | [Modern C++: lambda, bind, function](<4. Modern C++ lambda, bind, function/Modern C++ Lambda, Bind, Function.md>)
 ~~29 окт~~ | КОЛЛОКВИУМ | [Вопросы](<Коллоквиум/Вопросы.md>)
 ~~07 ноя~~ | Лаба | Досдача лаб
-~~12 ноя~~ | Лекция | [Modern C++: move-semantics and smart pointers](5. Modern C++ move semantic, smart pointers/Modern C++. Move Semantic, Smart Pointers.pdf)
-21 ноя | Лаба | [Modern C++: move-semantics and smart pointers](5. Modern C++ move semantic, smart pointers/Modern C++. Move Semantic, Smart Pointers.md)
+~~12 ноя~~ | Лекция | [Modern C++: move-semantics and smart pointers](<5. Modern C++ move semantic, smart pointers/Modern C++. Move Semantic, Smart Pointers.pdf>)
+21 ноя | Лаба | [Modern C++: move-semantics and smart pointers](<5. Modern C++ move semantic, smart pointers/Modern C++. Move Semantic, Smart Pointers.md>)
 26 ноя | Лекция | WinAPI
 05 дек | Лаба | WinAPI
 10 дек | Лекция | Multithreading
