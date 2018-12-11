@@ -32,8 +32,8 @@
 ~~21 ноя~~ | Лаба | [Modern C++: move-semantics and smart pointers](<5. Modern C++ move semantic, smart pointers/Modern C++. Move Semantic, Smart Pointers.md>)
 ~~26 ноя~~ | Лекция | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.pdf>)
 ~~05 дек~~ | Лаба | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
-10 дек | Лекция | Multithreading
-19 дек | Лаба | Multithreading
+~~10 дек~~ | Лекция | [Multithreading](<7. Multithreading/Multithreading.pdf>)
+19 дек | Лаба | [Multithreading](<7. Multithreading/Multithreading.md>)
 24 дек | ЗАЧЕТ | 
 
 ## Оценки
