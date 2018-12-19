@@ -34,7 +34,7 @@
 ~~05 дек~~ | Лаба | [WinAPI+DLL](<6. WinAPI+DLL/WinAPI+DLL.md>)
 ~~10 дек~~ | Лекция | [Multithreading](<7. Multithreading/Multithreading.pdf>)
 19 дек | Лаба | [Multithreading](<7. Multithreading/Multithreading.md>)
-24 дек | ЗАЧЕТ | 
+24 дек | ЗАЧЕТ | [Вопросы](<Зачет/Вопросы.md>)
 
 ## Оценки
 + оценка *3* – всем желающим
